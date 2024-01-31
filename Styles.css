@@ -30,6 +30,7 @@ html, body
 	width: 66%;
 	float: left;
 }
+
 /*****MENU SECTION*****/
 .main-panel {
 	width: 100%;
@@ -39,10 +40,7 @@ html, body
 	height: 100vh;
 }
 
-.logo {
-	font-size: 40px;
-	font-weight: 600;
-}
+
 
 .span-col {
 	color: #ffbf35;
